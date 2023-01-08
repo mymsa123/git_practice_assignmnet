@@ -1,6 +1,6 @@
 let str = "naman"
 let reverse = ""
-    for(let i = N-1 ; i>=0 ; i){
+    for(let i = N-1 ; i>=0 ; i--){
         reverse = reverse + str[i] +""
         }
    
